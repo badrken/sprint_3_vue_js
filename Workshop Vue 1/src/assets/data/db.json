@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "9b5ba3fb-49c5-4da6-b6af-c6e67255ad59",
+      "name": "Abdelhamid Ait-ayoub",
+      "email": "abdelhamidaitayoub@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "340623ca-da0a-4a47-9c74-3fda5d9f3609",
+      "name": "Badr Kanzzi",
+      "email": "badrkanzzi@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "340623ca-da0a-4a47-9c74-3fda5f3609",
+      "name": "Badr Kanzzi",
+      "email": "badrkanzzi@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
